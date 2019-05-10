@@ -1,0 +1,21 @@
+﻿  KNN.cpp
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(184): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(131): note: 参见对正在编译的函数 模板 实例化“bool notin<int>(T,std::vector<int,std::allocator<_Ty>>)”的引用
+          with
+          [
+              T=int,
+              _Ty=int
+          ]
+  正在生成代码
+  3 of 469 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  KNNCpp.vcxproj -> C:\Users\mxdwa\Documents\hmc\Data Mining\KNN\KNNCpp\Release\KNNCpp.exe

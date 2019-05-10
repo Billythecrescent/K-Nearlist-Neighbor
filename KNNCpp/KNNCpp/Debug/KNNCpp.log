@@ -1,0 +1,17 @@
+﻿  KNN.cpp
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(184): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\mxdwa\documents\hmc\data mining\knn\knncpp\knncpp\knn.cpp(131): note: 参见对正在编译的函数 模板 实例化“bool notin<int>(T,std::vector<int,std::allocator<_Ty>>)”的引用
+          with
+          [
+              T=int,
+              _Ty=int
+          ]
+KNN.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  KNNCpp.vcxproj -> C:\Users\mxdwa\Documents\hmc\Data Mining\KNN\KNNCpp\Debug\KNNCpp.exe
