@@ -9,6 +9,8 @@ python KNN.py filepath k [DataDivideRatio=0.7]
 
 filepath
 
-#ensp;        the full path of the .dat or .csv file, relative or absolute all both accepted.
+&ensp;&ensp;the full path of the .dat or .csv file, relative or absolute all both accepted.
+
 k
-        the number of nearest neighbor, which has to be set by the user.
+
+&ensp;&ensp;the number of nearest neighbor, which has to be set by the user.
